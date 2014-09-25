@@ -1,0 +1,7 @@
+Porting to Gauche by cithing the implementation of the following paper.
+
+Aaron Mark Ucko "Predicate Dispatching in the Common Lisp Object System"
+AI Technical Report 2001-006 June 2001
+
+At:
+ftp://publications.ai.mit.edu/ai-publications/2001/AITR-2001-006.pdf
